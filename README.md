@@ -10,4 +10,3 @@ A fast, simple backend service built with **FastAPI**, which allows users to sub
 - Stores tasks and translations in a SQL database (via SQLAlchemy)  
 - Provides REST API endpoints for creating translation tasks and retrieving results  
 - Easily switch between actual translation service (e.g., OpenAI) or a mock/fallback for testing  
-
